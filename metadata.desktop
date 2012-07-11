@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Random password generator
+Comment=Generate random password
+Type=Service
+ServiceTypes=Plasma/Runner
+X-Plasma-API=python
+X-Plasma-MainScript=code/main.py
+X-KDE-PluginInfo-Author=Henrik N. Jensen  
+X-KDE-PluginInfo-Email=h@henriknj.dk
+X-KDE-PluginInfo-Name=Random
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-License=BSD
+X-KDE-PluginInfo-EnabledByDefaut=true
